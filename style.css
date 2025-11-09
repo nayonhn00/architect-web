@@ -191,7 +191,6 @@ color: white;
 }
 /* sec3 start */
 .sec3{
-    border: 2px solid rebeccapurple;
      display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -425,3 +424,4 @@ margin-top: 20%;
 }
 
 
+/* com */
